@@ -34,7 +34,7 @@ def get_best_hit(result_handle):
 #
 # input
 #
-parser = argparse.ArgumentParser(description="blast", prog="blast", formatter_class=lambda prog: argparse.HelpFormatter(prog, max_help_position=50))
+parser = argparse.ArgumentParser(description="msa", prog="msa.py", formatter_class=lambda prog: argparse.HelpFormatter(prog, max_help_position=50))
 # blast
 parser.add_argument("-i", "--input", dest="input", type=str, help="Fasta file with sequences", required=True)
 parser.add_argument("-o", "--output", dest="output", type=str, help="Blast results (default=%(default)s)", default="results.xml")
