@@ -1,0 +1,102 @@
+CLUSTAL format alignment by MAFFT FFT-NS-2 (v7.453)
+
+
+ref|WP_00371342 atggaatttgtttacgacgtggcagaatcggcagtcagccccgcagtgattaaagtcatc
+gi|2067052644|g atggaatttgtttacgacgtggcagaatcggcagtcagccctgcggtaattaaagtaatc
+gi|2058660174|g ------------------------------------------------------------
+                                                                            
+
+ref|WP_00371342 ggattgggcggcggcggctgtaatgcaatcaacaatatggttgccaacaatgtgcgcggt
+gi|2067052644|g ggcttgggcggcggcggttgcaatgcaatcaataacatggttgccaacaatgtgcgcagt
+gi|2058660174|g ------------------------------------------------------------
+                                                                            
+
+ref|WP_00371342 gtggagtttatcagtgccaatacggatgcgcagtctttggcaaaaaaccatgcggcgaag
+gi|2067052644|g gtggagtttatcagtgccaatacagatgcgcagtctttggcaaaaaaccatgcggcgaag
+gi|2058660174|g ------------------------------------------------------------
+                                                                            
+
+ref|WP_00371342 agaatccagttgggtacgaatctgacacgcggtttgggtgcgggcgcgaatcccgatatc
+gi|2067052644|g agaatccagttgggtacgaatctgacacgcggtttgggcgcgggtgcgaatcccgatatc
+gi|2058660174|g ------------------------------------------------------------
+                                                                            
+
+ref|WP_00371342 ggccgcgcggccgctcaagaggatagggaagccattgaagaagccattcgcggtgcaaat
+gi|2067052644|g ggccgtgcggcagcacaggaagatcgggaggccattgaagaagccattcgcggtgccaat
+gi|2058660174|g ------------------------------------------------------------
+                                                                            
+
+ref|WP_00371342 atgctctttattacgaccgggatgggcggcggtaccggtaccggttcggctccggttgtt
+gi|2067052644|g atgctgtttatcacgaccggtatgggcggcggtaccggtaccggttccgcgccggttgtt
+gi|2058660174|g ------------------------------------------------------------
+                                                                            
+
+ref|WP_00371342 gccgaaatcgccaagtcgctgggcatcctgacggttgccgtggttacccggccgttcgca
+gi|2067052644|g gctgagattgccaagtctttgggcattctgaccgttgccgtagttacccgtccgttttct
+gi|2058660174|g ------------------------------------------------------------
+                                                                            
+
+ref|WP_00371342 tatgaaggcaaacgcgtccatgtcgcgcaggcaggtttggaacaattgaaagaacacgtc
+gi|2067052644|g tatgaaggcaaacgcgtccatgtggcacaggcagggttggaacagttgaaagaacacgtc
+gi|2058660174|g ------------------------------------------------------------
+                                                                            
+
+ref|WP_00371342 gattcgctgattattatcccgaacgacaaattgatgacggctttaggcgaagacgtaacc
+gi|2067052644|g gattcgctgattatcatcccgaacgacaaactgatgaccgcattgggtgaagacgtaact
+gi|2058660174|g ---------------------------------atgactgcattgggtgaagacgtaacg
+                                                 ***** ** **.**.*********** 
+
+ref|WP_00371342 atgcgcgaagccttccgcgccgccgacaatgtattgcgcgatgccgttgccggcatttcc
+gi|2067052644|g atgcgcgaagccttccgcgcggcggacaatgtattgcgcgatgcggtcgcaggcatttcc
+gi|2058660174|g atgcgcgaagccttccgtgccgccgacaatgtattgcgcgatgcggtcgcaggcatttcc
+                *****************.** ** ******************** **.** *********
+
+ref|WP_00371342 gaagtggttacttgtccgagcgaaatcatcaaccttgattttgcagatgtgaaaaccgtg
+gi|2067052644|g gaagtggtaacttgcccgagcgaaatcatcaacctcgactttgccgacgtgaaaaccgtg
+gi|2058660174|g gaagtggtaacttgcccgagcgaaatcatcaacctcgactttgccgacgtgaaaaccgtg
+                ******** *****.********************.**.***** **.************
+
+ref|WP_00371342 atgagtaatcgcggtatcgctatgatgggttcgggctatgcccaaggtatcgaccgtgcc
+gi|2067052644|g atgagcaaccgcggtatcgctatgatgggttcgggttatgcccaaggtatcgaccgtgcg
+gi|2058660174|g atgagcaaccgcggtatcgctatgatgggttcgggttatgcccaaggtatcgaccgtgcg
+                *****.**.**************************.*********************** 
+
+ref|WP_00371342 cgtatggcgaccgaccaggccatttccagccctctgttggatgacgtaaccttggatggt
+gi|2067052644|g cgtatggcgaccgaccaggccatttccagtccgctgctggacgatgtaactttggatggt
+gi|2058660174|g cgtatggcgaccgaccaggccatttccagtccgctgctggacgatgtaaccttggacgga
+                *****************************.** ***.****.**.*****.*****.** 
+
+ref|WP_00371342 gcgcgcggtgtgctcgtcaatattacaaccgcacccggttgtctgaaaatgtccgagctg
+gi|2067052644|g gcacgcggtgtgctggtcaatattacgactgctccgggttgcctgaaaatgtccgagttg
+gi|2058660174|g gcgcgcggtgtgctggtcaatattacgactgctccgggttgcttgaaaatgtccgagttg
+                **.*********** ***********.**.** ** *****..**************.**
+
+ref|WP_00371342 tccgaggtgatgaaaatcgtcaaccagagcgcgcatcctgatttggaatgcaaattcggt
+gi|2067052644|g tctgaagtcatgaaaatcgtcaaccaaagcgcgcatcccgatttggaatgcaaattcggt
+gi|2058660174|g tccgaagtcatgaaaatcgtcaaccaaagcgcgcatcccgatttggaatgcaaattcggt
+                **.**.** *****************.***********.*********************
+
+ref|WP_00371342 gcggcagaagacgaaactatgagcgaggatgcgattcggattaccattatcgcaaccggt
+gi|2067052644|g gccgctgaagacgagaccatgagcgaagatgccatccggattaccattatcgctaccggt
+gi|2058660174|g gcggctgaagacgagaccatgagcgaagatgccatccggattaccattatcgctaccggt
+                ** ** ********.**.********.***** **.***************** ******
+
+ref|WP_00371342 ttgaaagaaaaaggcgcggccggaccggcggtttccgcaaaggacgacgaacgggcggcc
+gi|2067052644|g ctgaaagaaaaaggagcggtcgatc---ctactccggcaagggaagtagaagcggttgcc
+gi|2058660174|g ctgaaagaaaaaggcgcggtcgatt---ttgttccggcaagggaggtagaagcggttgcc
+                .************* ****.**. .   . ..*.* ****.*** *  ***  **. ***
+
+ref|WP_00371342 gcaccgaaacaagggcagggtaataatgttgaaggcatgattcgcaccaataggggcatc
+gi|2067052644|g ccgtccaaacaggagcaaagccacaatgtcgaaggtatgatccgcaccaatcgcggtatc
+gi|2058660174|g ccgtccaaacaggagcaaagccacaatgtcgaaggtatgatccgcaccaatcgcggtatc
+                 *..* *****.*.***..*. *.*****.*****.*****.********* * **.***
+
+ref|WP_00371342 cgtacgatgaaccttaccgctgcggatttcgacaatcagtccgtccttgacgattttgaa
+gi|2067052644|g cgcaccatgaatctgacagcagcggatttcgataaccagtctgtccttgacgattttgaa
+gi|2058660174|g cgcacgatgaaccttaccgctgcggatttcgacaatcagtccgtacttgacgactttgaa
+                **.** *****.** ** ** ***********.**.*****.** ********.******
+
+ref|WP_00371342 atcccggcgattttgcgccgtcagcacaattcagacaaataa
+gi|2067052644|g attcctgcaattttgcgtcgtcaacacaattcagacaaataa
+gi|2058660174|g atccctgcgattttgcgtcgtcaacacaattcagacaaataa
+                **.** **.********.*****.******************
