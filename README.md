@@ -1,3 +1,4 @@
+```
 usage: msa.py [-h] -i INPUT [-o OUTPUT] [-s SERVICE] [-e EVALUE] [-n NHITS] [-d DATABASE] [-a ALIGNMENTS] [-f {fasta,clustalout}] [-m MSA] [-r REPORT]
 
 msa
@@ -20,3 +21,5 @@ optional arguments:
 Example:
 
 docker run --rm -v /test:/mnt -w /mnt dbest/mafft:latest msa.py -i Sequences.fa -o msa.out -s blastn -n 1 -a 1
+
+```
